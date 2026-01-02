@@ -153,10 +153,8 @@ Import this file into Postman to test all APIs.
 ---
 
 ## Live Demo
-
-- **Frontend**: https://tenantspace.vercel.app  
-- **Backend (Health Check)**: https://multi-tenant-saas-platform-tu98.onrender.com/api/health 
-- **Demo Video**: https://youtu.be/D0UkljjS5Ck?si=HI3DqtKFXdtyNKBp  
+ 
+- **Demo Video**: https://drive.google.com/file/d/1rK2fzSG5vlrmme_1_IMu15eoATTqG83T/view?usp=sharing  
 
 > ⚠️ **Note:** The backend is hosted on Render’s free tier.  
 > On the first request, the server may take **30–60 seconds** to wake up from sleep.  
